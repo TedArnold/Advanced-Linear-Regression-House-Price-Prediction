@@ -24,7 +24,7 @@ Here are some highlights of the visualizations I did.
 
 ![](Boxplot.png)
 
-![](Corrplot.png)
+![](corrplot.png)
 
 ![](Histogram.png)
 
